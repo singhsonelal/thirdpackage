@@ -1,6 +1,6 @@
 {
-    "name": "singhsonelal/secondpackage",
-    "description": "second package",
+    "name": "singhsonelal/thirdpackage",
+    "description": "third package",
     "type": "library",
     "license": "MIT",
     "authors": [
