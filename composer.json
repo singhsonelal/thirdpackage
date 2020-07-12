@@ -1,0 +1,19 @@
+{
+    "name": "singhsonelal/secondpackage",
+    "description": "second package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sonelal",
+            "email": "sonelalsingh@gmail.com"
+        }
+    ],
+	"autoload":{
+		"psr-4":{
+			"sonelal\\PrintPage\\" : "src/"
+		}
+	},
+    "minimum-stability": "stable",
+    "require": {}
+}
